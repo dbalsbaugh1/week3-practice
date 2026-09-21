@@ -1,3 +1,3 @@
-Next step: check the data license.
+Next step: compare two data sources and check their licenses.
 
 Add the next step
