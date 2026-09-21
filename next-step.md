@@ -1,3 +1,3 @@
-Next step: choose a data source.
+Next step: compare two data sources.
 
 Add the next step
