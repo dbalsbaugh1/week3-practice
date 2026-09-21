@@ -1,2 +1,2 @@
-next word
-next steps
+Next step: choose a data source.
+
